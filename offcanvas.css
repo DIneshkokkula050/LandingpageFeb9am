@@ -1,0 +1,16 @@
+
+.offcanvas-bottom {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    max-height: 70%; 
+    overflow-y: auto;
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.offcanvas-body {
+    padding: 1rem;
+}
